@@ -28,13 +28,6 @@ I specialize in algorithms where outcomes are verifiable and logic is transparen
 
 ---
 
-### 📂 Featured Repositories
-* **Exploratory Data Analysis:** [Link to a key Python/Pandas project]
-* **Supervised Learning Models:** [Link to a Scikit-learn or TensorFlow project]
-* **Database Management:** [Link to a SQL/Postgres optimization project]
-
----
-
 ### 📊 Professional Philosophy
 > "Analysis is only as powerful as the logic that supports it."
 1. **Structural Integrity:** Prioritizing clean, normalized data in PostgreSQL.
